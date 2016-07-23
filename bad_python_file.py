@@ -11,5 +11,5 @@ class class1:
 
 
 if __name__ == "__main__":
-    print("hello " + \
-          "word" )
+    print("hello " +
+          "word")
