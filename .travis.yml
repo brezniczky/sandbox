@@ -1,6 +1,8 @@
 language: python
 python:
     - "2.7"
+notifications:
+    email: false
 before_install:
     - pip install pep8  # why is it in before_install not install?
 # command to install dependencies

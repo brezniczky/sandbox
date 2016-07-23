@@ -2,7 +2,7 @@ import verylongmodulename
 
 
 class class1:
-    def __init__():
+    def __init__(): 
         pass
 
     class class2:
